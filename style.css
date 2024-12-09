@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jaro:opsz@6..72&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+body {
+    background-color: rgb(3, 31, 64);
+    color: white;
+    font-family: "Jaro", sans-serif;
+    font-size: 5vw;
+}
+
+button.btn {
+    height: 6rem;
+    width: 6rem;
+    border: 4px solid black !important;
+    border-radius: 20%;
+    cursor: pointer;
+}
+
+button.btn:active,
+button.active {
+    background-color: white !important;
+}
