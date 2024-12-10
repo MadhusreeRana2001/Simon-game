@@ -3,6 +3,8 @@
 
 This is a simple UI for playing the generic Simon game. It is built using vanilla Javascript and Bootstrap.
 
+[Click here to play](https://simon-game-for-children.netlify.app/)
+
 ## Steps to play:
 
 - Any key from the keyboard, preferably except the Space Bar, should be pressed to start the game.
